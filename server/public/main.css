@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+}
+
+#messages {
+    list-style-type: none;
+}
+
+#message {
+    width: 400px;
+}
+
+li span {
+    display: inline-block;
+}
+
+.sentAt {
+    color: gray;
+    padding-right: 15px;
+}
+
+.username {
+    color: black;
+    padding-right: 15px;
+    width: 100px;
+}
+
+.message {
+    color: black;
+    font-weight: bold;
+}
