@@ -1,0 +1,7 @@
+local.properties
+platforms
+plugins
+*.swp
+*.swo
+*.log
+*.DS_Store
