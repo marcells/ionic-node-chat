@@ -1,0 +1,25 @@
+{
+  "main": "index.html",
+  "name": "chat-client",
+  "description": "demo app of node-webkit",
+  "version": "0.1.0",
+  "keywords": [ "demo", "node-webkit" ],
+  "window": {
+    "title": "Marcells chat client",
+    "icon": "link.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 400,
+    "height": 800,
+    "position": "center",
+    "min_width": 400,
+    "min_height": 400,
+    "max_width": 600,
+    "max_height": 1000
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "dependencies": {
+  }
+}

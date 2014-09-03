@@ -1,6 +1,9 @@
 local.properties
 platforms
 plugins
+node_modules/
+cache/
+webkitbuilds/
 *.swp
 *.swo
 *.log
